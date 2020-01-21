@@ -1,0 +1,38 @@
+{
+  "name": "@aacassandra/image-loader",
+  "version": "1.0.0",
+  "description": "The easiest way a waiting image are loaded 100%",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacassandra/image-loader.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": {
+    "name": "Alauddin Afif Cassandra",
+    "email": "alauddinafifcassandra@programmer.net",
+    "url": "https://aacassandra-github.web.app"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aacassandra/image-loader/issues"
+  },
+  "homepage": "https://github.com/aacassandra/image-loader#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.17.0",
+    "prettier": "^1.19.1"
+  }
+}
